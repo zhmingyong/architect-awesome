@@ -1,5 +1,3 @@
-![互联网大厂内推](互联网大厂内推.jpeg)
-
 <h1>《后端架构师技术图谱》</h1>
 
 :thumbsup: :thumbsup: :thumbsup:  推荐一个在线搜课程的神器，“[课程搜](https://www.kcsou.com)”：[https://www.kcsou.com/s_架构师/](https://www.kcsou.com/s_%E6%9E%B6%E6%9E%84%E5%B8%88/)
